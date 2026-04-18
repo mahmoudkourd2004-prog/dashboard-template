@@ -32,7 +32,7 @@ It is part of Elzero Web School practice projects aimed at improving front-end d
 ---
 
 ## 🚀 Live Demo
-[Click here to view project](#)
+(https://mahmoudkourd2004-prog.github.io/dashboard-template/)
 
 ---
 
